@@ -4,6 +4,8 @@ plugins {
     id("maven-publish")
 }
 
+// Published via JitPack, which re-maps this single artifact to
+//   com.github.MabrookTrackGitHut:mabrooktrack-android:<git tag>
 group = "com.mabrooktrack"
 version = "0.1.0"
 

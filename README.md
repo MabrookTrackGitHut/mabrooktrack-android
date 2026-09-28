@@ -9,7 +9,7 @@ Install attribution and in-app events for TikTok app campaigns, by [MabrookTrack
 `app/build.gradle.kts`:
 
 ```kotlin
-implementation("com.github.MabrookTrackGitHut.mabrooktrack-android:sdk:0.1.0")
+implementation("com.github.MabrookTrackGitHut:mabrooktrack-android:0.1.0")
 ```
 
 ## Use
